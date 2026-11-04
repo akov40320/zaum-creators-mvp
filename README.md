@@ -38,4 +38,6 @@ React, TypeScript, Vite, Recharts и Lucide React. Хранилище — localS
 
 ## Демонстрация
 
-Публикационная ссылка будет добавлена после размещения и проверки публичного доступа.
+Демо: [https://zaum-creators-mvp.vercel.app](https://zaum-creators-mvp.vercel.app)
+
+Исходный код: [github.com/akov40320/zaum-creators-mvp](https://github.com/akov40320/zaum-creators-mvp)
