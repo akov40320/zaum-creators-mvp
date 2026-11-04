@@ -14,3 +14,40 @@
 .mobile-recent-list{display:none}
 @media(max-width:860px){.overview-desktop-list{display:none}.mobile-recent-list{display:grid}.mobile-recent-card{width:100%;border:0;border-bottom:1px solid #eef0f2;background:#fff;padding:13px 5px;text-align:left;display:grid;gap:9px}.mobile-recent-card:last-child{border-bottom:0}.mobile-recent-top{display:flex;align-items:center;justify-content:space-between;gap:8px}.mobile-recent-top .creator-cell{min-width:0}.mobile-recent-meta{display:flex;align-items:center;gap:10px;padding-left:39px;color:#8c949e;font-size:9px}.mobile-recent-meta>.platform-label{font-size:9px}.mobile-recent-meta>span:nth-child(2){overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.mobile-recent-meta>span:nth-child(3){display:inline-flex;align-items:center;gap:3px;white-space:nowrap}.mobile-recent-meta>strong{margin-left:auto;color:#505b66;font-size:9px;white-space:nowrap}}
 @media(max-width:390px){.status-chart text{display:none}}
+@media(min-width:900px){
+  .workspace-label{font-size:10px}
+  .nav-item{font-size:14px}
+  .nav-count{font-size:11px}
+  .sidebar-note{font-size:11px}
+  .workspace-card strong{font-size:13px}
+  .workspace-card small{font-size:11px}
+  .breadcrumbs{font-size:13px}
+  .global-search input{font-size:13px}
+  .page-heading h1{font-size:30px}
+  .page-heading p{font-size:14px}
+  .eyebrow{font-size:10px}
+  .button{font-size:12px}
+  .metric-top{font-size:13px}
+  .metric-value{font-size:27px}
+  .metric-foot{font-size:11px}
+  .panel-heading h2{font-size:15px}
+  .panel-heading p{font-size:12px}
+  .status-legend button{font-size:11px}
+  .status-legend strong{font-size:15px}
+  .channel-name strong{font-size:13px}
+  .channel-name small,.channel-share small{font-size:11px}
+  .cpm-callout small{font-size:9px}
+  .cpm-callout strong{font-size:16px}
+  .data-table thead th{font-size:9px}
+  .data-table td{font-size:12px}
+  .creator-cell strong{font-size:12px}
+  .creator-cell small{font-size:10px}
+  .platform-label{font-size:12px}
+  .status-badge{font-size:10px}
+  .category-pill{font-size:10px}
+  .page-footer{font-size:10px}
+  .catalog-search input{font-size:13px}
+  .filter-controls select,.catalog-summary select{font-size:11px}
+  .catalog-summary{font-size:11px}
+  .table-footer{font-size:10px}
+}
